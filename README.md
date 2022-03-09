@@ -2,6 +2,10 @@
 
 This is an official Yarn v1 starter turborepo.
 
+# Example
+
+Refer this [repo](https://github.com/achaljain/universal-react-microapps) for sample code, micro app demo
+
 ## What's inside?
 
 This turborepo uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package manager. It includes the following packages/apps:
