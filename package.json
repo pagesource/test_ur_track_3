@@ -19,7 +19,8 @@
     "start": "turbo run start --parallel",
     "storybook:install": "cd storybook && yarn",
     "storybook:run": "cd storybook && yarn start-storybook",
-    "storybook:build": "cd storybook && yarn build-storybook"
+    "storybook:build": "cd storybook && yarn build-storybook",
+    "test": "echo \"test no enabled\""
   },
   "devDependencies": {
     "prettier": "^2.5.1",
